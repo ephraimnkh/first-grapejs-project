@@ -1,0 +1,21 @@
+{
+  "name": "first-grapesjs-project",
+  "version": "1.0.0",
+  "description": "Testing GrapesJS from the website",
+  "main": "first-grapejs-project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ephraim Nkhoma",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "grapesjs": "^0.16.18"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.5",
+    "grapesjs-parser-postcss": "^0.1.1"
+  }
+}
