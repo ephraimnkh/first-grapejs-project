@@ -1,0 +1,14 @@
+First GrapesJS Project
+
+These are a few test pages I was using to work with the GrapesJS Framework which is a framework to help you build 
+a webpage editor.
+
+Each page links to a css and or js file with the same name.
+
+To run clone the repository to your system.
+In your terminal:
+Enter the first-grapesjs-project directory.
+Run "npm install"
+Run "node server.js"
+Server is at localhost:8080
+Then pick a path from the server.js file for instance "http://localhost:8080/page-3" etc.
