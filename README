@@ -6,9 +6,12 @@ a webpage editor.
 Each page links to a css and or js file with the same name.
 
 To run clone the repository to your system.
-In your terminal:
+In your terminal or command prompt:
 Enter the first-grapejs-project directory.
 Run "npm install"
 Run "node server.js"
 Server is at localhost:8080
 Then pick a path from the server.js file for instance "http://localhost:8080/page-3" etc.
+
+/page-16 communicates with the server in my other repository db-creator which runs a mongoDB database
+where all website edits are stored and you can view the edited webpage.
